@@ -204,13 +204,16 @@ Fun Fact:
 ---
 
 <!-- ============================================================ -->
-<!--                    GITHUB TROPHIES                           -->
+<!--              ACHIEVEMENTS & MILESTONES                       -->
 <!-- ============================================================ -->
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msaadakram&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" width="100%"/>
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-47+-FFD700?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/📦_Public_Repos-47-00BFFF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🔥_Total_Commits-1000+-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🤝_Followers-4-6A5ACD?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 ---
