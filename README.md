@@ -42,6 +42,11 @@
 
 <table>
   <tr>
+    <!-- LEFT: Coding GIF (behind/beside the text visually) -->
+    <td valign="middle" align="center" width="35%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
+    </td>
+    <!-- RIGHT: Profile text -->
     <td valign="top" width="65%">
 
 ```yaml
@@ -74,12 +79,8 @@ Fun Fact:
 ```
 
 </td>
-    <td valign="middle" align="center" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
-    </td>
   </tr>
 </table>
-
 ---
 
 <!-- ============================================================ -->
