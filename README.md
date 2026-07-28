@@ -42,8 +42,8 @@
 
 <table>
   <tr>
-    <!-- LEFT: Profile text -->
-    <td valign="top" width="65%">
+    <!-- TOP: Profile text -->
+    <td valign="top" align="center">
 
 ```yaml
 Name     : Muhammad Saad Akram
@@ -75,9 +75,11 @@ Fun Fact:
 ```
 
 </td>
-    <!-- RIGHT: Coding GIF -->
-    <td valign="middle" align="center" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
+  </tr>
+  <tr>
+    <!-- BOTTOM: Coding GIF -->
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
     </td>
   </tr>
 </table>
