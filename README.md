@@ -42,10 +42,10 @@
 
 ```yaml
 Name     : Muhammad Saad Akram
-Age      : 18
+Age      : 20
 Location : Lahore, Pakistan 🇵🇰
 Role     : Full-Stack Developer & AI Engineer
-Email    : arhamsaad453@gmail.com
+Email    : msaadakram786@gmail.com
 
 Specialization:
   - AI Agents & LLM Applications
