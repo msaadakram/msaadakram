@@ -40,10 +40,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-
 ```yaml
 Name     : Muhammad Saad Akram
 Age      : 18
@@ -72,13 +68,6 @@ Fun Fact:
   - I code late at night ☕🌙
   - AI is not replacing me — I'm building it 🤖
 ```
-
-</td>
-    <td valign="middle" align="center" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
