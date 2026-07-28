@@ -72,7 +72,7 @@ Learning:
 Fun Fact:
   - I code late at night ☕🌙
   - AI is not replacing me — I'm building it 🤖
-` ` `
+```
 
 </td>
     <!-- RIGHT: Coding GIF -->
@@ -81,13 +81,6 @@ Fun Fact:
     </td>
   </tr>
 </table>
-```
-
-The only two changes made:
-- The **text `<td>` block** is now the **first column** (left side, 65% width)
-- The **GIF `<td>` block** is now the **second column** (right side, 35% width)
-
-This gives you the layout: `[ 📄 Profile Text ]  [ 🎞️ Coding GIF ]` horizontally across the row.
 ---
 
 <!-- ============================================================ -->
