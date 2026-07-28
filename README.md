@@ -153,56 +153,6 @@ Fun Fact:
 
 ---
 
-<!-- ============================================================ -->
-<!--                    GITHUB STATISTICS                         -->
-<!-- ============================================================ -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/msaadakram">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=msaadakram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
-      alt="GitHub Stats"
-      width="48%"
-    />
-  </a>
-  <a href="https://github.com/msaadakram">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaadakram&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-      alt="Top Languages"
-      width="48%"
-    />
-  </a>
-</p>
-
----
-
-<!-- ============================================================ -->
-<!--                    STREAK & ACTIVITY                         -->
-<!-- ============================================================ -->
-
-## 🔥 Streak & Activity
-
-<p align="center">
-  <a href="https://github.com/msaadakram">
-    <img 
-      src="https://streak-stats.demolab.com?user=msaadakram&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-      width="48%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/msaadakram">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=msaadakram&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
-</p>
 
 <!-- ============================================================ -->
 <!--                   CONTRIBUTION GRAPH                         -->
