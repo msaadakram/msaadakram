@@ -204,10 +204,14 @@ Fun Fact:
 ---
 
 <!-- ============================================================ -->
-<!--                    FEATURED PROJECTS (RESPONSIVE)            -->
+<!--                    FEATURED PROJECTS                         -->
 <!-- ============================================================ -->
 
 ## 🚀 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🤖 AI Applications
 
@@ -217,6 +221,9 @@ Fun Fact:
 - 🔗 Multi-Model LLM Integrations
 - 🛠️ AI Automation Pipelines
 
+</td>
+    <td width="50%" valign="top">
+
 ### 🌐 Full Stack Apps
 
 - ⚛️ React & Next.js SaaS Products
@@ -224,6 +231,11 @@ Fun Fact:
 - 🐍 Python FastAPI Services
 - 🗄️ MongoDB & PostgreSQL Apps
 - 🔐 Auth & Payment Integrations
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎭 Browser Automation
 
@@ -233,6 +245,9 @@ Fun Fact:
 - 🌐 Multi-Browser Bots
 - 📊 Data Extraction Tools
 
+</td>
+    <td width="50%" valign="top">
+
 ### 🧩 Extensions & DevTools
 
 - 🧩 Chrome Extensions (MV3)
@@ -240,6 +255,10 @@ Fun Fact:
 - 🔄 n8n Custom Workflows
 - 💻 CLI Developer Tools
 - 📦 Open Source Utilities
+
+</td>
+  </tr>
+</table>
 
 ---
 
