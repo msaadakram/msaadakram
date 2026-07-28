@@ -40,46 +40,42 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <!-- TOP: Profile text -->
-    <td valign="top" align="center">
+    <td align="center" colspan="2">
 
-```yaml
-Name     : Muhammad Saad Akram
-Age      : 18
-Location : Lahore, Pakistan 🇵🇰
-Role     : Full-Stack Developer & AI Engineer
-Email    : arhamsaad453@gmail.com
+**Name**: Muhammad Saad Akram  
+**Age**: 18  
+**Location**: Lahore, Pakistan 🇵🇰  
+**Role**: Full-Stack Developer & AI Engineer  
+**Email**: arhamsaad453@gmail.com  
 
-Specialization:
-  - AI Agents & LLM Applications
-  - Browser Automation (Playwright / Selenium)
-  - Chrome Extension Development
-  - n8n Workflow Automation
-  - Full-Stack Web Development
+**Specialization**:
+- AI Agents & LLM Applications
+- Browser Automation (Playwright / Selenium)
+- Chrome Extension Development
+- n8n Workflow Automation
+- Full-Stack Web Development
 
-Current Focus:
-  - Building SaaS Products
-  - Advanced AI Automation
-  - Cloud & DevOps (Docker / Linux)
+**Current Focus**:
+- Building SaaS Products
+- Advanced AI Automation
+- Cloud & DevOps (Docker / Linux)
 
-Learning:
-  - React · Next.js · Node.js
-  - LangChain · OpenAI API · Ollama
-  - Docker · Linux · n8n
+**Learning**:
+- React · Next.js · Node.js
+- LangChain · OpenAI API · Ollama
+- Docker · Linux · n8n
 
-Fun Fact:
-  - I code late at night ☕🌙
-  - AI is not replacing me — I'm building it 🤖
-```
+**Fun Fact**:
+- I code late at night ☕🌙
+- AI is not replacing me — I'm building it 🤖
 
 </td>
   </tr>
   <tr>
-    <!-- BOTTOM: Coding GIF -->
-    <td align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+    <td align="center" colspan="2">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 500px;" alt="coding gif"/>
     </td>
   </tr>
 </table>
