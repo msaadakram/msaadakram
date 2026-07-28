@@ -160,7 +160,6 @@ Fun Fact:
 
 ---
 
-
 <!-- ============================================================ -->
 <!--                   CONTRIBUTION GRAPH                         -->
 <!-- ============================================================ -->
@@ -197,71 +196,50 @@ Fun Fact:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaadakram&theme=tokyonight" width="100%"/>
 </p>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaadakram&theme=tokyonight"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaadakram&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaadakram&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaadakram&theme=tokyonight"/>
+</p>
 
 ---
 
 <!-- ============================================================ -->
-<!--                    FEATURED PROJECTS                         -->
+<!--                    FEATURED PROJECTS (RESPONSIVE)            -->
 <!-- ============================================================ -->
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Applications</h3>
-      <ul>
-        <li>🧠 AI Agents with LangChain & OpenAI</li>
-        <li>💬 LLM-Powered Chatbots</li>
-        <li>⚡ Prompt Engineering Tools</li>
-        <li>🔗 Multi-Model LLM Integrations</li>
-        <li>🛠️ AI Automation Pipelines</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Full Stack Apps</h3>
-      <ul>
-        <li>⚛️ React & Next.js SaaS Products</li>
-        <li>🟢 Node.js REST APIs</li>
-        <li>🐍 Python FastAPI Services</li>
-        <li>🗄️ MongoDB & PostgreSQL Apps</li>
-        <li>🔐 Auth & Payment Integrations</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎭 Browser Automation</h3>
-      <ul>
-        <li>🎭 Playwright E2E Automation</li>
-        <li>🤖 Selenium WebDriver Bots</li>
-        <li>🎪 Puppeteer Scrapers</li>
-        <li>🌐 Multi-Browser Bots</li>
-        <li>📊 Data Extraction Tools</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 Extensions & DevTools</h3>
-      <ul>
-        <li>🧩 Chrome Extensions (MV3)</li>
-        <li>🖥️ VS Code Extensions</li>
-        <li>🔄 n8n Custom Workflows</li>
-        <li>💻 CLI Developer Tools</li>
-        <li>📦 Open Source Utilities</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🤖 AI Applications
+
+- 🧠 AI Agents with LangChain & OpenAI
+- 💬 LLM-Powered Chatbots
+- ⚡ Prompt Engineering Tools
+- 🔗 Multi-Model LLM Integrations
+- 🛠️ AI Automation Pipelines
+
+### 🌐 Full Stack Apps
+
+- ⚛️ React & Next.js SaaS Products
+- 🟢 Node.js REST APIs
+- 🐍 Python FastAPI Services
+- 🗄️ MongoDB & PostgreSQL Apps
+- 🔐 Auth & Payment Integrations
+
+### 🎭 Browser Automation
+
+- 🎭 Playwright E2E Automation
+- 🤖 Selenium WebDriver Bots
+- 🎪 Puppeteer Scrapers
+- 🌐 Multi-Browser Bots
+- 📊 Data Extraction Tools
+
+### 🧩 Extensions & DevTools
+
+- 🧩 Chrome Extensions (MV3)
+- 🖥️ VS Code Extensions
+- 🔄 n8n Custom Workflows
+- 💻 CLI Developer Tools
+- 📦 Open Source Utilities
 
 ---
 
