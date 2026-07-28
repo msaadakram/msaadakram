@@ -1,228 +1,419 @@
-<!-- ========================================================= -->
-<!--                  ANIMATED HEADER                          -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--                    ANIMATED HEADER                           -->
+<!-- ============================================================ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A5ACD,50:00BFFF,100:00FFFF&text=MUHAMMAD%20SAAD%20AKRAM&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20%26%20Agent%20Engineer%20|%20Automation%20Specialist&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D0D0D,30:6A5ACD,60:00BFFF,100:00FFFF&text=MUHAMMAD%20SAAD%20AKRAM&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descAlignY=56&descSize=18&animation=fadeIn"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+agents+that+ship+real+products;Node.js+%2B+TypeScript+%2B+Next.js;Turning+architecture+specs+into+working+code;Playwright+%26+Selenium+automation;Currently%3A+an+autonomous+anime+studio+%F0%9F%8E%AC"
-  />
-</p>
+<!-- ============================================================ -->
+<!--                   ANIMATED TYPING SVG                        -->
+<!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6A5ACD&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=00BFFF"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=00FFFF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saad+Akram;Full-Stack+Developer+%7C+AI+%26+LLM+Engineer;Playwright+%26+Selenium+Automation+Expert;Chrome+Extension+%26+n8n+Workflow+Builder;Docker+%7C+Linux+%7C+Open+Source+Enthusiast;Building+the+Future+%E2%80%94+One+Commit+at+a+Time+%F0%9F%9A%80" />
 </p>
 
+<!-- ============================================================ -->
+<!--                     PROFILE BADGES                           -->
+<!-- ============================================================ -->
+
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+  <img src="https://komarev.com/ghpvc/?username=msaadakram&label=Profile+Views&color=00BFFF&style=for-the-badge&logo=eye"/>
+  <img src="https://img.shields.io/github/followers/msaadakram?logo=github&style=for-the-badge&color=6A5ACD&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/stars/msaadakram?affiliations=OWNER&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=star"/>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-00FF88?style=for-the-badge&logo=checkmarx&logoColor=black"/>
 </p>
 
 ---
 
-## 👋 About Me
+<!-- ============================================================ -->
+<!--                      ABOUT ME                                -->
+<!-- ============================================================ -->
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+## 👨‍💻 About Me
 
 ```yaml
-name: Muhammad Saad Akram
-location: Lahore, Pakistan 🇵🇰
-role: Full-Stack Developer & AI Systems Engineer
+Name        : Muhammad Saad Akram
+Age         : 18 years old
+Location    : Lahore, Pakistan 🇵🇰
+Role        : Full-Stack Developer & AI Engineer
+Email       : arhamsaad453@gmail.com
 
-focus:
-  - Autonomous AI agents & agentic tooling
-  - Full-stack apps (Node.js / TypeScript / Next.js / MongoDB)
-  - Browser automation (Playwright / Selenium)
-  - Chrome extensions
+Specialization:
+  - AI Agents & LLM Applications
+  - Browser Automation (Playwright / Selenium)
+  - Chrome Extension Development
+  - n8n Workflow Automation
+  - Full-Stack Web Development
 
-stack:
-  backend:  [Node.js, Express, TypeScript, MongoDB Atlas]
-  frontend: [Next.js, React, Tailwind]
-  infra:    [VPS, Vercel, Docker, Linux]
-  ai:       [OpenAI, Google Gemini, ElevenLabs, Perplexity, Claude]
+Current Focus:
+  - Building SaaS Products
+  - Advanced AI Automation
+  - Cloud & DevOps (Docker / Linux)
+  - Open Source Contributions
 
-approach: >
-  Write a detailed architecture spec first, then hand it off
-  to an AI coding agent to build.
+Learning:
+  - React · Next.js · Node.js
+  - Playwright · Selenium · Puppeteer
+  - n8n · Docker · Linux
+  - LangChain · OpenAI API · Ollama
+
+Fun Fact:
+  - I code late at night ☕🌙
+  - AI is not replacing me — I'm building it 🤖
 ```
 
----
-
-## 🚀 Now Building
-
-**An automated anime YouTube pipeline** — script generation → AI image
-generation → voiceover → video assembly, fully hands-off, with a character
-consistency layer so the same character looks right across every scene.
-
-```mermaid
-flowchart LR
-    A[📝 Script Generation] --> B[🎨 Image Generation<br/>OpenAI]
-    B --> C[🧬 Character Consistency<br/>Engine]
-    C --> D[🎙️ Voiceover Synthesis<br/>ElevenLabs]
-    D --> E[🎬 Video Assembly<br/>Gemini]
-    E --> F[📤 Publish]
-
-    style A fill:#6A5ACD,color:#fff
-    style B fill:#5B4FCF,color:#fff
-    style C fill:#4C6EF5,color:#fff
-    style D fill:#00BFFF,color:#000
-    style E fill:#00E5FF,color:#000
-    style F fill:#00FFFF,color:#000
-```
-
-Also actively shipping:
-
-- 📧 **animezone.me** — a self-hosted disposable/temporary email platform
-- 🏆 **UCP Live Leaderboard** — a Chrome extension with a dark cyberpunk UI
-- 🧠 **Agent CLI tooling** — Claude-Code-style agents wired through browser automation
+<br clear="right"/>
 
 ---
 
-## 🧠 Exploring Right Now
+<!-- ============================================================ -->
+<!--                    SOCIAL / CONNECT                          -->
+<!-- ============================================================ -->
 
-Deep in evaluating **open-weight LLMs for coding workflows** — chasing the
-best mix of speed and quality across:
-
-`Qwen3` · `GPT-OSS-120B` · `MiniMax M2.7 / M3` · `Nemotron` · `DeepSeek V4` · `GLM-5.2` · `Kimi K2.7`
-
-Benchmarking against **SWE-bench Pro** and **Terminal-Bench**, and testing free
-inference options on **OpenCode Zen** and **DigitalOcean Model Studio**.
-
----
-
-## 🛠️ Tech Stack
+## 🌍 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,git,github,linux,bash,docker,tailwind,vscode,npm&perline=10"/>
-</p>
-
-### 🤖 AI, Agents & Automation
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-6A5ACD?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-00BFFF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElevenLabs-00CED1?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity-1E90FF?style=for-the-badge&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <a href="https://github.com/msaadakram">
+    <img src="https://img.shields.io/badge/GitHub-msaadakram-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/msaadakram">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:arhamsaad453@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arhamsaad453@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚙️ How I Build
+<!-- ============================================================ -->
+<!--                      TECH STACK                              -->
+<!-- ============================================================ -->
 
-```mermaid
-flowchart TD
-    A[💡 Idea] --> B[📝 Architecture Spec]
-    B --> C[🤖 AI-Assisted Build]
-    C --> D[🧪 Test]
-    D --> E[🚀 Deploy]
-    E --> F[📈 Iterate]
-    F --> A
-```
+## 💻 Tech Stack
 
----
-
-## 📊 GitHub Stats
-
+### 🌐 Frontend
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=8"/>
 </p>
 
+### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,postgres,firebase,supabase,redis&perline=10"/>
 </p>
 
+### 🤖 AI / Automation / Tools
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,bash,git,github,vscode,cloudflare,vercel,npm&perline=10"/>
 </p>
 
 ---
+
+<!-- ============================================================ -->
+<!--                   AI & AUTOMATION SECTION                    -->
+<!-- ============================================================ -->
+
+## 🤖 AI & Automation Stack
+
+<p align="center">
+
+| 🧠 AI & LLM | 🎭 Automation | 🧩 Extensions | ☁️ Cloud & DevOps |
+|:-----------:|:-------------:|:-------------:|:-----------------:|
+| OpenAI API  | Playwright    | Chrome Extensions | Docker          |
+| LangChain   | Selenium      | VS Code Extensions | Linux           |
+| Ollama      | Puppeteer     | CLI Tools      | Cloudflare       |
+| Groq API    | n8n Workflows | Desktop Utilities | Vercel          |
+| Claude API  | Python Bots   | Developer Tools | Oracle Cloud    |
+
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                    GITHUB STATS                              -->
+<!-- ============================================================ -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=msaadakram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaadakram&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                    GITHUB STREAK                             -->
+<!-- ============================================================ -->
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=msaadakram&theme=tokyonight&hide_border=true&ring=00BFFF&fire=FF6B6B&currStreakLabel=00F7FF"/>
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                   CONTRIBUTION GRAPH                         -->
+<!-- ============================================================ -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaadakram&theme=tokyo-night&hide_border=true&area=true&line=00BFFF&point=00FFFF"/>
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                    GITHUB TROPHIES                           -->
+<!-- ============================================================ -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=msaadakram&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                   PROFILE SUMMARY CARDS                      -->
+<!-- ============================================================ -->
+
+## 📋 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaadakram&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaadakram&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaadakram&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                    FEATURED PROJECTS                         -->
+<!-- ============================================================ -->
 
 ## 🚀 Featured Projects
 
-| Project | What it does |
-|---|---|
-| 📧 **animezone.me** | Self-hosted temp-email platform — Node.js/TS/Express, MongoDB Atlas, Socket.IO live inbox updates, JWT + admin 2FA, Next.js frontend, multi-domain DNS/MX routing |
-| 🎬 **Anime AI Studio** *(in progress)* | End-to-end automated anime video pipeline — script → OpenAI image gen → ElevenLabs voice → Gemini video assembly, with cross-scene character consistency |
-| 🏆 **UCP Live Leaderboard** | Chrome extension with a dark cyberpunk/gaming-themed real-time leaderboard UI |
-| 🧠 **Agent Tooling** | Claude-Code-style CLI agent routed through Playwright browser automation, plus ongoing LLM benchmarking for coding workflows |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary>🧪 Also tinkered with</summary>
-<br/>
+### 🤖 AI Applications
+- 🧠 AI Agents with LangChain & OpenAI
+- 💬 LLM-Powered Chatbots
+- ⚡ Prompt Engineering Tools
+- 🔗 Multi-Model LLM Integrations
+- 🛠️ AI Automation Pipelines
 
-- Monero (XMRig) mining proxy server — Node.js + Stratum protocol
-- DeepSeek chat scraper exposing an OpenAI-compatible REST API for Codex CLI / Continue.dev
-- `claudo` — Claude Code proxied through DigitalOcean Gradient AI via LiteLLM
-- Selenium-based Microsoft account login automation with Gmail API verification retrieval
+</td>
+<td width="50%" valign="top">
 
-</details>
+### 🌐 Full Stack Apps
+- ⚛️ React & Next.js SaaS Products
+- 🟢 Node.js REST APIs
+- 🐍 Python FastAPI Services
+- 🗄️ MongoDB & PostgreSQL Apps
+- 🔐 Auth & Payment Integrations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 Browser Automation
+- 🎭 Playwright E2E Automation
+- 🤖 Selenium WebDriver Bots
+- 🎪 Puppeteer Scrapers
+- 🌐 Multi-Browser Bots
+- 📊 Data Extraction Tools
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Extensions & DevTools
+- 🧩 Chrome Extensions (MV3)
+- 🖥️ VS Code Extensions
+- 🔄 n8n Custom Workflows
+- 💻 CLI Developer Tools
+- 📦 Open Source Utilities
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Background
+<!-- ============================================================ -->
+<!--                  DEVELOPMENT WORKFLOW                        -->
+<!-- ============================================================ -->
 
-Computer Science (FOIT) @ University of Central Punjab — alongside coursework
-in calculus and C++. Started with HTML/CSS/JS fundamentals, moved through
-React (with Vite and React Router), and now builds full agentic systems on
-top of that foundation.
+## ⚙️ My Development Workflow
+
+```text
+💡 Idea Generation
+        │
+        ▼
+📝 Planning & Architecture
+        │
+        ▼
+🎨 UI/UX Design (Figma)
+        │
+        ▼
+💻 Full-Stack Development
+        │
+        ▼
+🤖 AI & Automation Integration
+        │
+        ▼
+🧪 Testing (Playwright / Jest)
+        │
+        ▼
+🐳 Dockerize & Configure
+        │
+        ▼
+🚀 Deploy (Vercel / Cloudflare / VPS)
+        │
+        ▼
+📈 Monitor & Continuously Improve
+```
 
 ---
 
-## 🎌 Beyond the Code
-
-Anime, cosplay photography, and Marvel/comic-book aesthetics — no surprise
-the current side project is an anime content pipeline. 🎨
-
----
+<!-- ============================================================ -->
+<!--                    2026 GOALS                                -->
+<!-- ============================================================ -->
 
 ## 🎯 2026 Goals
 
-- 🎬 Ship the anime AI pipeline end-to-end
-- 🚀 Take a SaaS product from idea to production
-- 🤖 Build more autonomous, tool-using agents
-- 🌐 Contribute to open source
-- 🏆 1000+ GitHub contributions
+- [x] 🚀 Launch production-ready SaaS products
+- [ ] 🤖 Build advanced multi-agent AI systems
+- [ ] 🎭 Master Playwright & Selenium at scale
+- [ ] 🌐 Contribute meaningfully to open source
+- [ ] 📱 Publish Chrome Extensions on Web Store
+- [ ] ☁️ Get certified in Cloud & DevOps
+- [ ] 🐳 Deploy full Docker-based microservices
+- [ ] ⚡ Build 5+ scalable REST & GraphQL APIs
+- [ ] 🏆 Reach 1000+ GitHub contributions
+- [ ] 💰 Scale freelance income on Upwork
 
 ---
+
+<!-- ============================================================ -->
+<!--                   DEVELOPER PROFILE                          -->
+<!-- ============================================================ -->
+
+## ⚡ Developer Profile
+
+```text
+╔══════════════════════════════════════╗
+║   👨‍💻  MUHAMMAD SAAD AKRAM            ║
+║   🌍  Lahore, Pakistan               ║
+╠══════════════════════════════════════╣
+║   💻  Full-Stack Developer           ║
+║   🤖  AI & LLM Engineer              ║
+║   🎭  Playwright & Selenium Expert   ║
+║   🧩  Chrome Extension Developer     ║
+║   🔄  n8n Workflow Builder           ║
+║   🐍  Python Automation Expert       ║
+║   🐳  Docker & Linux User            ║
+║   ☁️   Cloud & DevOps Learner        ║
+║   🚀  Open Source Contributor        ║
+╚══════════════════════════════════════╝
+```
+
+---
+
+<!-- ============================================================ -->
+<!--                   ASK ME ABOUT                               -->
+<!-- ============================================================ -->
+
+## 💬 Ask Me About
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                   CONTRIBUTION SNAKE                         -->
+<!-- ============================================================ -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/msaadakram/msaadakram/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/msaadakram/msaadakram/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/msaadakram/msaadakram/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+<!-- ============================================================ -->
+<!--                    SUPPORT MY WORK                           -->
+<!-- ============================================================ -->
+
+## ☕ Support My Work
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://github.com/msaadakram?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐ Star my Repos-FFD700?style=for-the-badge&logoColor=black"/>
+  </a>
+  <a href="https://github.com/msaadakram">
+    <img src="https://img.shields.io/badge/🍴 Fork Useful Projects-00BFFF?style=for-the-badge"/>
+  </a>
+  <a href="mailto:arhamsaad453@gmail.com">
+    <img src="https://img.shields.io/badge/🤝 Collaborate With Me-6A5ACD?style=for-the-badge"/>
+  </a>
 </p>
 
-<p align="center">⭐ Thanks for stopping by ⭐</p>
+---
+
+<!-- ============================================================ -->
+<!--                     FOOTER WAVE                              -->
+<!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:00BFFF,100:6A5ACD&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:00BFFF,100:6A5ACD&height=130&section=footer"/>
+</p>
+
+<p align="center">
+  <b style="font-size:18px">🚀 Thanks for visiting my profile!</b><br/><br/>
+  <i>"Code • Learn • Build • Automate • Innovate"</i><br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Keep+building+amazing+things+%F0%9F%9A%80;Every+commit+is+a+step+forward+%E2%9C%85;Open+to+collaborations+%26+freelance+work+%F0%9F%A4%9D"/>
 </p>
