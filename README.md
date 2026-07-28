@@ -154,42 +154,55 @@ Fun Fact:
 ---
 
 <!-- ============================================================ -->
-<!--                    GITHUB STATS                              -->
+<!--                    GITHUB STATISTICS                         -->
 <!-- ============================================================ -->
 
 ## 📊 GitHub Statistics
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=msaadakram&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="165"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaadakram&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/msaadakram">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=msaadakram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"
+      alt="GitHub Stats"
+      width="48%"
+    />
+  </a>
+  <a href="https://github.com/msaadakram">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaadakram&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+      alt="Top Languages"
+      width="48%"
+    />
+  </a>
+</p>
 
 ---
 
 <!-- ============================================================ -->
-<!--              STREAK + ACTIVITY (SIDE BY SIDE)                -->
+<!--                    STREAK & ACTIVITY                         -->
 <!-- ============================================================ -->
 
 ## 🔥 Streak & Activity
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=msaadakram&theme=tokyonight&hide_border=true&ring=00BFFF&fire=FF6B6B&currStreakLabel=00F7FF" height="165"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaadakram&theme=tokyonight" height="165"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/msaadakram">
+    <img 
+      src="https://streak-stats.demolab.com?user=msaadakram&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      width="48%"
+    />
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/msaadakram">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=msaadakram&theme=tokyo-night&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
 
 <!-- ============================================================ -->
 <!--                   CONTRIBUTION GRAPH                         -->
