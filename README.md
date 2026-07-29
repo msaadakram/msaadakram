@@ -90,7 +90,7 @@ Fun Fact:
   <a href="https://vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com">
+  <a href="https://www.upwork.com/freelancers/~017f706f06d8e16822?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
