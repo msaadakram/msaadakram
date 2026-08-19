@@ -1,39 +1,28 @@
-<!-- ============================================================ -->
-<!--                    ANIMATED HEADER                           -->
-<!-- ============================================================ -->
+<div align="center">
 
-<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D0D0D,30:6A5ACD,60:00BFFF,100:00FFFF&text=MUHAMMAD%20SAAD%20AKRAM&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Specialist&descAlignY=60&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=176&color=0:09090B,45:1E1B4B,100:0E7490&text=SAAD%20AKRAM&fontColor=F8FAFC&fontSize=44&fontAlignY=36&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Automation&descAlignY=56&descSize=15&animation=fadeIn"
     width="100%"
-    alt="header"
+    alt="Saad Akram — full-stack, AI systems, automation"
   />
-</p>
 
-<!-- ============================================================ -->
-<!--                   ANIMATED TYPING SVG                        -->
-<!-- ============================================================ -->
-
-<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&height=45&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Saad+Akram;Full-Stack+Developer+%7C+AI+Engineer;Playwright+%26+Selenium+Automation;Chrome+Extensions+%26+n8n+Workflows;Docker+%7C+Linux+%7C+Open+Source;Building+the+Future+%F0%9F%9A%80"
-    alt="typing"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1400&color=22D3EE&center=true&vCenter=true&width=640&height=36&lines=Shipping+production+web+apps;AI+tooling+%26+workflow+automation;Playwright+%C2%B7+Extensions+%C2%B7+n8n"
+    alt="Shipping production web apps, AI tooling, and automation"
   />
-</p>
 
-<!-- ============================================================ -->
-<!--                     PROFILE BADGES                           -->
-<!-- ============================================================ -->
+  <p>
+    <img src="https://img.shields.io/badge/Lahore-Pakistan-22D3EE?style=for-the-badge&labelColor=020617" alt="Lahore, Pakistan" />
+    <img src="https://img.shields.io/github/followers/msaadakram?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=6366F1" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/msaadakram?affiliations=OWNER&style=for-the-badge&logo=star&logoColor=white&labelColor=020617&color=F59E0B" alt="Stars on owned repos" />
+    <img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=052e16" alt="Open to work" />
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msaadakram&label=Profile+Views&color=00BFFF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/msaadakram?logo=github&style=for-the-badge&color=6A5ACD&labelColor=0D1117"/>
-  <img src="https://img.shields.io/github/stars/msaadakram?affiliations=OWNER&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=star"/>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-00FF88?style=for-the-badge&logo=checkmarx&logoColor=black"/>
-</p>
+  **I ship production web products, AI tooling, and browser automation.**
 
-<br/>
+  Next.js · Python · Playwright · Chrome Extensions · n8n · Docker · Linux
 
+</div>
 <!-- ============================================================ -->
 <!--                      ABOUT ME                                -->
 <!-- ============================================================ -->
