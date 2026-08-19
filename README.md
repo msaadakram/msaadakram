@@ -23,35 +23,69 @@
   Next.js · Python · Playwright · Chrome Extensions · n8n · Docker · Linux
 
 </div>
-## About
+<!-- ============================================================ -->
+<!--                      ABOUT ME                                -->
+<!-- ============================================================ -->
 
-Full-stack developer in Lahore building SaaS products, AI agents, and browser automation.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-I ship production web apps, then wrap the boring parts in Playwright, Chrome extensions, and n8n so they run without me.
+```yaml
+Name     : Muhammad Saad Akram
+Age      : 20
+Location : Lahore, Pakistan 🇵🇰
+Role     : Full-Stack Developer & AI Engineer
+Email    : msaadakram786@gmail.com
 
-- **Now** — SaaS products, AI automation, Docker / Linux
-- **Stack** — Next.js · Python · Node.js · Playwright · n8n · LangChain
-- **Hours** — most of the real work happens after midnight
+Specialization:
+  - AI Agents & LLM Applications
+  - Browser Automation (Playwright / Selenium)
+  - Chrome Extension Development
+  - n8n Workflow Automation
+  - Full-Stack Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/Lahore-Pakistan-22D3EE?style=flat-square&labelColor=020617" alt="Lahore" />
-  <img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=flat-square&labelColor=020617" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Available-Upwork-6FDA44?style=flat-square&labelColor=020617" alt="Available on Upwork" />
-</p>
+Current Focus:
+  - Building SaaS Products
+  - Advanced AI Automation
+  - Cloud & DevOps (Docker / Linux)
 
-## Connect
+Learning:
+  - React · Next.js · Node.js
+  - LangChain · OpenAI API · Ollama
+  - Docker · Linux · n8n
+
+Fun Fact:
+  - I code late at night ☕🌙
+  - AI is not replacing me — I'm building it 🤖
+```
+
+---
+
+<!-- ============================================================ -->
+<!--                    SOCIAL / CONNECT                          -->
+<!-- ============================================================ -->
+
+## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/msaadakram"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/msaadakram"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
-  <a href="https://saad-portifi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC" alt="Portfolio" /></a>
-  <a href="https://www.upwork.com/freelancers/~017f706f06d8e16822?mp_source=share"><img src="https://img.shields.io/badge/Upwork-020617?style=for-the-badge&logo=upwork&logoColor=6FDA44" alt="Upwork" /></a>
-  <a href="mailto:arhamsaad453@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://github.com/msaadakram">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/msaadakram">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:arhamsaad453@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~017f706f06d8e16822?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <sub>Building AI that automates work — not a resume that lists it.</sub>
-</p>
+---
+
 <!-- ============================================================ -->
 <!--                      TECH STACK                              -->
 <!-- ============================================================ -->
