@@ -142,13 +142,6 @@ Fun Fact:
 <!--                   CONTRIBUTION GRAPH                         -->
 <!-- ============================================================ -->
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaadakram&theme=tokyo-night&hide_border=true&area=true&line=00BFFF&point=00FFFF" width="100%"/>
-</p>
-
----
 
 <!-- ============================================================ -->
 <!--              ACHIEVEMENTS & MILESTONES                       -->
